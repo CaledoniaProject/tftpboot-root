@@ -1,6 +1,6 @@
 # tftpboot-root
 
-支持 wakeonlan 远程激活
+支持 wakeonlan 远程激活，远程部署 Linux 系统
 
 ## TFTP 服务配置
 
