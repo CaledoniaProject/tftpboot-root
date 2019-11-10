@@ -1,0 +1,4 @@
+default run
+LABEL run
+  LINUX vmlinuz
+  APPEND initrd=initrd.img.gz
